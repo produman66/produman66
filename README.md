@@ -24,10 +24,10 @@ Beginning backend developer from Moscow
 ![](https://komarev.com/ghpvc/?username=Teranikys&style=for-the-badge&color=blue)
 
 ## About me:
-- Study at RTU MIREA
-- Learn backend and really want to become a good developer to make the world a better place
+- Учусь в РТУ МИРЭА 
+- Изучаю Android разработку и собираюсь стать профессионалом 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Teranikys&theme=ambient-gradient&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=produman66&theme=ambient-gradient&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## Languages and Tools I use:
 <div>
